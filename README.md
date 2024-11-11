@@ -152,11 +152,3 @@ Product: Tablet, Price: $299.99, Rating: 4.2
 Feel free to fork this repository, submit issues, and contribute improvements. If you have any ideas for new features or improvements, don’t hesitate to create a pull request!
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-By providing this overview, you'll give potential contributors or users a clear understanding of the project, how to use it, and how to extend or modify it. It also highlights the core algorithms, making it a valuable addition to your GitHub portfolio.
